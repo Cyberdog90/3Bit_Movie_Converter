@@ -6,7 +6,7 @@ If you feel interesting, please cooperate with us.
 
   
 We are not familiar with github and english.  
-Go easy on us.
+
 
 ### Sample Movie
 [![sample](http://img.youtube.com/vi/W-WTlkSAlj4/0.jpg)](http://www.youtube.com/watch?v=W-WTlkSAlj4) 
