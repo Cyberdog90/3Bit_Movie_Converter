@@ -5,7 +5,7 @@ We think that we want to make this project interesting.
 If you feel interesting, please cooperate with us.  
 
   
-We are not familiar with github and english.  
+But, we are not familiar with github and english.  
 
 
 ### Sample Movie
